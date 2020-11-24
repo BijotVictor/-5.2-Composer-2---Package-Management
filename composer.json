@@ -1,0 +1,13 @@
+{
+    "name": "axelraboit/composer-autoload2",
+    "description": "Exercice autoload 2",
+    "authors": [
+        {
+            "name": "AxelRaboit",
+            "email": "axel.raboit@gmail.com"
+        }
+    ],
+    "require": {
+        "ehime/hello-world": "^1.0"
+    }
+}
